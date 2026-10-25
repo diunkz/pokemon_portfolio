@@ -1,6 +1,6 @@
 {
   "site": {
-    "brand_prefix": "DIUNKZ",
+    "brand_prefix": "DIUNKZT",
     "brand_suffix": "POKE VAULT",
     "github_raw_base": "https://raw.githubusercontent.com/diunkz/pokemon_portfolio/main"
   },
@@ -16,7 +16,8 @@
       "arquivo_cartas": "nomes/herois_excelsos.txt",
       "variantes": {
         "N": { "nome": "Normal", "cor": "amber", "sigla": "N" },
-        "P": { "nome": "Poké Ball", "cor": "emerald", "sigla": "P" },
+        "E": { "nome": "Energy", "cor": "emerald", "sigla": "N" },
+        "P": { "nome": "Poké Ball", "cor": "red", "sigla": "P" },
         "R": { "nome": "Reverse Foil", "cor": "purple", "sigla": "R" },
         "F": { "nome": "Foil", "cor": "sky", "sigla": "F" }
       }
