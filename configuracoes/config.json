@@ -16,8 +16,9 @@
       "arquivo_cartas": "nomes/herois_excelsos.txt",
       "variantes": {
         "N": { "nome": "Normal", "cor": "amber", "sigla": "N" },
-        "E": { "nome": "Energy", "cor": "emerald", "sigla": "N" },
+        "E": { "nome": "Energy", "cor": "emerald", "sigla": "E" },
         "P": { "nome": "Poké Ball", "cor": "red", "sigla": "P" },
+        "RO": { "nome": "Rocket", "cor": "purple", "sigla": "RO" },
         "R": { "nome": "Reverse Foil", "cor": "purple", "sigla": "R" },
         "F": { "nome": "Foil", "cor": "sky", "sigla": "F" }
       }
