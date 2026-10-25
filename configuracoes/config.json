@@ -15,12 +15,16 @@
       "extensao_imagem": "png",
       "arquivo_cartas": "nomes/herois_excelsos.txt",
       "variantes": {
-        "N": { "nome": "Normal", "cor": "amber", "sigla": "N" },
-        "E": { "nome": "Energy", "cor": "emerald", "sigla": "E" },
-        "P": { "nome": "Poké Ball", "cor": "red", "sigla": "P" },
-        "RO": { "nome": "Rocket", "cor": "purple", "sigla": "RO" },
-        "R": { "nome": "Reverse Foil", "cor": "purple", "sigla": "R" },
-        "F": { "nome": "Foil", "cor": "sky", "sigla": "F" }
+        "NO": { "nome": "Normal", "cor": "amber", "sigla": "NOR" },
+        "HOL": { "nome": "Holofoil", "cor": "sky", "sigla": "HOL" }
+        "REV": { "nome": "Reverse Holofoil", "cor": "purple", "sigla": "REV" },
+        "POK": { "nome": "Poké Ball", "cor": "red", "sigla": "POK" },
+        "ENE": { "nome": "Energy", "cor": "emerald", "sigla": "ENE" },
+        "FRB": { "nome": "Friend Ball", "cor": "lime", "sigla": "FRB" },
+        "LVB": { "nome": "Love Ball", "cor": "pink", "sigla": "LVB" },
+        "QKB": { "nome": "Quick Ball", "cor": "cyan", "sigla": "QKB" },
+        "RO": { "nome": "Rocket", "cor": "orange", "sigla": "RKT" },
+        "DKB": { "nome": "Dusk Ball", "cor": "teal", "sigla": "DKB" }
       }
     },
     }
